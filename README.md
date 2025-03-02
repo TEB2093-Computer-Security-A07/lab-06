@@ -37,8 +37,6 @@
   - [Task 6](#task-6)
     - [Task 6 - Issues](#task-6---issues)
 
-\pagebreak
-
 ## Task 1
 
 Deriving the private key from the following public key:
@@ -120,8 +118,6 @@ Private Key (e, n):
     d =  3587A24598E5F2A21DB007D89D18CC50ABA5075BA19A33890FE7C28A9B496AEB
     n =  E103ABD94892E3E74AFD724BF28E78366D9676BCCC70118BD0AA1968DBB143D1
 ```
-
-\pagebreak
 
 ## Task 2
 
@@ -228,8 +224,6 @@ Original message: A top secret!
 [+] Decryption successful!
 ```
 
-\pagebreak
-
 ## Task 3
 
 Decrypting a message:
@@ -298,8 +292,6 @@ if __name__ == "__main__":
 Encrypted message: 8C0F971DF2F3672B28811407E2DABBE1DA0FEBBBDFC7DCB67396567EA1E2493F
 Decrypted message: Password is dees
 ```
-
-\pagebreak
 
 ## Task 4
 
@@ -392,8 +384,6 @@ RSA signature features:
 - Reversing an RSA signature without the private key is infeasible.
 
 Hence, this unpredictability makes RSA signatures secure against forgery and tampering.
-
-\pagebreak
 
 ## Task 5
 
@@ -497,8 +487,6 @@ Original message: Launch a missile.
 ### Task 5 - Explanation
 
 If the last byte of the signature is corrupted (changing 2F to 3F, which is just one-bit change), the verification process will completely fail. This happens because RSA signature verification relies on modular exponentiation, meaning even a tiny change in the signature results in a completely different output.
-
-\pagebreak
 
 ## Task 6
 
