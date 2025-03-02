@@ -1,0 +1,11 @@
+/Users/frost8ytes/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/frost8ytes/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DOPENSSL_ROOT_DIR=/opt/homebrew/opt/openssl -G Ninja -S "/Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06" -B "/Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06/cmake-build-debug"
+-- The C compiler identification is AppleClang 16.0.0.16000026
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found OpenSSL: /opt/homebrew/opt/openssl/lib/libcrypto.dylib (found version "3.4.1")
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06/cmake-build-debug

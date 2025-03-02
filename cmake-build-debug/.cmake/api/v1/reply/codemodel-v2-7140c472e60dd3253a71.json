@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab06_task01",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab06_task01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab06_task01-Debug-4dac3df95791d976be8c.json",
+					"name" : "lab06_task01",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06/cmake-build-debug",
+		"source" : "/Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

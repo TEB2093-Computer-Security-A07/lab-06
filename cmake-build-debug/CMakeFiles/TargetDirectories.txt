@@ -1,0 +1,3 @@
+/Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06/cmake-build-debug/CMakeFiles/lab06_task01.dir
+/Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/frost8ytes/Library/CloudStorage/OneDrive-UniversitiTeknologiPETRONAS/3rd Year 1st Semester/TEB2093 Computer Security/lab06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
